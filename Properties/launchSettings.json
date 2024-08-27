@@ -1,0 +1,21 @@
+﻿"profiles": {
+    "IIS Express": {
+        "commandName": "IISExpress",
+        "launchBrowser": true,
+        "launchUrl": "swagger",
+        "environmentVariables": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "applicationUrl": "https://localhost:7188;http://localhost:5188"
+    },
+    "CrudApp": {
+        "commandName": "Project",
+        "dotnetRunMessages": true,
+        "launchBrowser": true,
+        "launchUrl": "swagger",
+        "applicationUrl": "https://localhost:7188;http://localhost:5188",
+        "environmentVariables": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        }
+    }
+}
